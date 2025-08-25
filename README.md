@@ -30,33 +30,9 @@ Os dados utilizados estão disponíveis publicamente no seguinte repositório:
 - Pandas
 - Plotly
 
-## ▶️ Como Executar Localmente
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-Instale as dependências:
-
-bash
-pip install -r requirements.txt
-Execute o aplicativo:
-
-bash
-streamlit run app.py
-📷 Preview
-<img width="1870" height="726" alt="image" src="https://github.com/user-attachments/assets/c4b75b3b-aa4f-4d18-b4cc-526020268a68" />
-
+## 📷 Preview
+<img width="1870" height="726" alt="grafico" src="https://github.com/user-attachments/assets/2d29b966-4db2-432a-a8df-c266c7dcb08a" />
 
 📌 Observações
 Os valores salariais estão em dólares americanos (USD).
-O dashboard é responsivo e se adapta a diferentes tamanhos de tela.
-
-Se quiser, posso te ajudar a gerar a imagem de preview ou montar o `requirem
-Adicione aqui uma imagem ou gif do dashboard em funcionamento para ilustrar.
-
-📌 Observações
-Os valores salariais estão em dólares americanos (USD).
-
 O dashboard é responsivo e se adapta a diferentes tamanhos de tela.
